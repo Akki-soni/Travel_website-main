@@ -7,7 +7,7 @@
 </p>
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h1 align="center">Pop Design</h1>
+<h1 align="center">Travel-Website</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge">
@@ -16,33 +16,14 @@
 </p>
 
 <p align="center">
-  A visually appealing Pop Design component created using HTML, CSS, and JavaScript. This design can be used to display pop-up messages, notifications, or other content in a stylish and responsive manner.
+  A simple and modern looking travel website created using HTML, CSS, and JavaScript. This design can be used to display videos, photes or other content in a stylish and responsive manner.
 </p>
-
-## 🚀 Features
-
-- ***A pop-up design that appears smoothly on user interaction.***
-- ***Customizable content within the pop-up.***
-- ***Responsive and adaptable to different screen sizes.***
-- ***Easy to close or dismiss with a close button.***
-- ***Can be triggered by a button or other events.***
 
 ## 🛠️ Technologies Used
 
-- **HTML**: For structuring the pop-up and main page layout.
-- **CSS**: For designing the appearance of the pop-up and adding animations.
-- **JavaScript**: For handling the triggering and dismissal of the pop-up.
-
-## 🚀 How to Use
-
-- **Trigger the pop-up by clicking a button or based on a JavaScript event.**
-- **The pop-up will appear on the screen with the content.**
-- **Close the pop-up by clicking the close button or an outside area (if applicable).**
-
-## 🚀 Customization
-
-- You can customize the content and style of the pop-up via the HTML and CSS files.
-- JavaScript allows you to modify how and when the pop-up appears, as well as add additional functionalities.
+- **HTML**: For structuring the travel website and main page layout.
+- **CSS**: For designing the appearance of the travel website and adding animations.
+- **JavaScript**: For handling the triggering and dismissal of the travel website.
 
 ## 🚀 Project Setup
 
@@ -50,7 +31,7 @@ No external dependencies are required. Just clone the repository and open the `i
 
 ```bash
 git clone <https://github.com/Akki-soni/Pop-Up-Design.git>
-cd pop-design
+cd travel-website
 open index.html
 ```
 
@@ -64,11 +45,11 @@ open index.html
 
 ## 🌟 Screenshots
 
-![PopUp-Screenshot](/image/PopUp_Screenshot.png)
+![PopUp-Screenshot]()
 
 ## 🔗 Live Demo
 
-[View Live Demo](https://pop-up-design.vercel.app/)
+[View Live Demo]()
 
 ## 🤝 Contributing
 
@@ -90,7 +71,7 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akki_214g/)
 
 <a href="">
-  <img src="/image/logoo.jpeg" alt="Icon" style="vertical-align:middle; width:50px; height:auto;">
+  <img src="/logoo.jpeg" alt="Icon" style="vertical-align:middle; width:50px; height:auto;">
 </a>
 
 ## Thank You &#10084;
