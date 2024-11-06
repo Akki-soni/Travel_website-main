@@ -30,7 +30,7 @@
 No external dependencies are required. Just clone the repository and open the `index.html` file in any modern web browser.
 
 ```bash
-git clone <https://github.com/Akki-soni/Pop-Up-Design.git>
+git clone <https://github.com/Akki-soni/Travel_website-main.git>
 cd travel-website
 open index.html
 ```
