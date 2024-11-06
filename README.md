@@ -45,7 +45,7 @@ open index.html
 
 ## 🌟 Screenshots
 
-![PopUp-Screenshot]()
+![PopUp-Screenshot](/images/T-W_Screenshot.png)
 
 ## 🔗 Live Demo
 
